@@ -72,7 +72,7 @@ h6 {
 .top-header {
     display: table;
     position: relative;
-    background-image: url(../img/top-header.jpg);
+    background-image: url(top-header.jpg);
     background-size: cover;
     padding: 150px 0;
     color: #fff;
@@ -178,7 +178,7 @@ h6 {
 .banner-header {
     display: table;
     position: relative;
-    background-image: url(../img/banner-bg.jpg);
+    background-image: url(banner-bg.jpg);
     background-size: cover;
     padding: 100px 0;
     color: #fff;
@@ -747,83 +747,83 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .single-service .icon.icon-1 {
-    background-image: url(../img/icon/icon-1.png);
+    background-image: url(icon-1.png);
 }
 
 #services .single-service:hover .icon.icon-1 {
-    background-image: url(../img/icon/icon-1-hover.png);
+    background-image: url(icon-1-hover.png);
 }
 
 #services .single-service .icon.icon-2 {
-    background-image: url(../img/icon/icon-2.png);
+    background-image: url(icon-2.png);
 }
 
 #services .single-service:hover .icon.icon-2 {
-    background-image: url(../img/icon/icon-2-hover.png);
+    background-image: url(icon-2-hover.png);
 }
 
 #services .single-service .icon.icon-3 {
-    background-image: url(../img/icon/icon-3.png);
+    background-image: url(icon-3.png);
 }
 
 #services .single-service:hover .icon.icon-3 {
-    background-image: url(../img/icon/icon-3-hover.png);
+    background-image: url(icon-3-hover.png);
 }
 
 #services .single-service .icon.icon-4 {
-    background-image: url(../img/icon/icon-4.png);
+    background-image: url(icon-4.png);
 }
 
 #services .single-service:hover .icon.icon-4 {
-    background-image: url(../img/icon/icon-4-hover.png);
+    background-image: url(icon-4-hover.png);
 }
 
 #services .single-service .icon.icon-5 {
-    background-image: url(../img/icon/icon-5.png);
+    background-image: url(icon-5.png);
 }
 
 #services .single-service:hover .icon.icon-5 {
-    background-image: url(../img/icon/icon-5-hover.png);
+    background-image: url(icon-5-hover.png);
 }
 
 #services .single-service .icon.icon-6 {
-    background-image: url(../img/icon/icon-6.png);
+    background-image: url(icon-6.png);
 }
 
 #services .single-service:hover .icon.icon-6 {
-    background-image: url(../img/icon/icon-6-hover.png);
+    background-image: url(icon-6-hover.png);
 }
 
 #services .single-service .icon.icon-7 {
-    background-image: url(../img/icon/icon-7.png);
+    background-image: url(icon-7.png);
 }
 
 #services .single-service:hover .icon.icon-7 {
-    background-image: url(../img/icon/icon-7-hover.png);
+    background-image: url(icon-7-hover.png);
 }
 
 #services .single-service .icon.icon-8 {
-    background-image: url(../img/icon/icon-8.png);
+    background-image: url(icon-8.png);
 }
 
 #services .single-service:hover .icon.icon-8 {
-    background-image: url(../img/icon/icon-8-hover.png);
+    background-image: url(icon-8-hover.png);
 }
 
 #services .single-service .icon.icon-9 {
-    background-image: url(../img/icon/icon-9.png);
+    background-image: url(icon-9.png);
 }
 
 #services .single-service:hover .icon.icon-9 {
-    background-image: url(../img/icon/icon-9-hover.png);
+    background-image: url(icon-9-hover.png);
 }
 
 #services .single-service .icon.icon-10 {
-    background-image: url(../img/icon/icon-10.png);
+    background-image: url(icon-10.png);
 }
 
 #services .single-service:hover .icon.icon-10 {
-    background-image: url(../img/icon/icon-10-hover.png);
+    background-image: url(icon-10-hover.png);
 }
 
 /* ================================================= */
@@ -876,7 +876,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* ================================================= */
 
 #testimonials {
-    background: url("../img/testimonial-bg.jpg") center top no-repeat fixed;
+    background: url("testimonial-bg.jpg") center top no-repeat fixed;
     background-size: cover;
     padding: 55px 0;
     text-align: center;
